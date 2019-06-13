@@ -1,6 +1,12 @@
 ---
-title: "Test"
-output: html_notebook
+title: "Montgomery College DATA101"
+output:
+  html_document:
+    df_print: paged
 ---
 
-## Test 11
+
+## R Programming
+## Getting and Cleaning Data
+## Exploratory Data Analysis
+## Statistical Inference
